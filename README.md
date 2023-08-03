@@ -2,7 +2,7 @@
 Created by od_1969  
 Twitter https://twitter.com/od_1969  
   
-Create Movie  
+Movie - Print with a 3D printer  
 https://drive.google.com/file/d/1j0QeLC7A3t0M-cZ2pDu6I1NdbBHjXOF9/
   
 画像、動画は CC BY-SA 4.0 ライセンスに基づいて配布されています。  
